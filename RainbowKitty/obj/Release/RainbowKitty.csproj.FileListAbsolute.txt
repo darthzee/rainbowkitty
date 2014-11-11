@@ -1,0 +1,4 @@
+C:\java2\RainbowKitty\RainbowKitty\bin\Release\RainbowKitty.exe
+C:\java2\RainbowKitty\RainbowKitty\bin\Release\RainbowKitty.pdb
+C:\java2\RainbowKitty\RainbowKitty\obj\Release\RainbowKitty.exe
+C:\java2\RainbowKitty\RainbowKitty\obj\Release\RainbowKitty.pdb

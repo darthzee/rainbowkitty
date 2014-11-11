@@ -1,0 +1,5 @@
+C:\java2\RainbowKitty\RainbowKitty\bin\Debug\RainbowKitty.exe
+C:\java2\RainbowKitty\RainbowKitty\bin\Debug\RainbowKitty.pdb
+C:\java2\RainbowKitty\RainbowKitty\obj\Debug\RainbowKitty.csprojResolveAssemblyReference.cache
+C:\java2\RainbowKitty\RainbowKitty\obj\Debug\RainbowKitty.exe
+C:\java2\RainbowKitty\RainbowKitty\obj\Debug\RainbowKitty.pdb
